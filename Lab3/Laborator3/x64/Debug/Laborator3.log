@@ -1,0 +1,5 @@
+﻿  mat4.cpp
+  testMatrix.cpp
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab3\Laborator3\testMatrix.cpp(183,177): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Laborator3.vcxproj -> E:\Faculta\AN2_SEM2\EGC_LAB\Lab3\Laborator3\x64\Debug\Laborator3.exe

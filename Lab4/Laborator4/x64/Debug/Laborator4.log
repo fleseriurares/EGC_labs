@@ -1,0 +1,10 @@
+﻿  main.cpp
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab4\Laborator4\main.cpp(20,5): warning C4102: 'std': unreferenced label
+  testTransform.cpp
+  transform.cpp
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab4\Laborator4\transform.cpp(69,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab4\Laborator4\transform.cpp(111,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab4\Laborator4\transform.cpp(124,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab4\Laborator4\transform.cpp(137,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Laborator4.vcxproj -> E:\Faculta\AN2_SEM2\EGC_LAB\Lab4\Laborator4\x64\Debug\Laborator4.exe

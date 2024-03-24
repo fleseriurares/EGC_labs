@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab2\main.cpp(252,5): warning C4102: 'std': unreferenced label
+  main2.cpp
+  vec2.cpp
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab2\Project1\vec2.cpp(65,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  vec3.cpp
+  vec4.cpp
+  Generating Code...
+  Project1.vcxproj -> E:\Faculta\AN2_SEM2\EGC_LAB\Lab2\Project1\x64\Debug\Project1.exe
