@@ -1,0 +1,26 @@
+﻿  clip.cpp
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(135,17): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(135,17): warning C4244:         with
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(135,17): warning C4244:         [
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(135,17): warning C4244:             _Ty=int
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(135,17): warning C4244:         ]
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(136,17): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(136,17): warning C4244:         with
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(136,17): warning C4244:         [
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(136,17): warning C4244:             _Ty=int
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(136,17): warning C4244:         ]
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(137,17): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(137,17): warning C4244:         with
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(137,17): warning C4244:         [
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(137,17): warning C4244:             _Ty=int
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(137,17): warning C4244:         ]
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(138,17): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(138,17): warning C4244:         with
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(138,17): warning C4244:         [
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(138,17): warning C4244:             _Ty=int
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(138,17): warning C4244:         ]
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(180,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(185,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(190,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\EGC_CSclip\clip.cpp(195,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  EGC_CSclip.vcxproj -> E:\Faculta\AN2_SEM2\EGC_LAB\Lab6\EGC_CSclip\x64\Debug\EGC_CSclip.exe
